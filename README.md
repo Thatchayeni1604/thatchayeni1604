@@ -1,16 +1,60 @@
-## Hi there 👋
+👋 Hi, I'm Thatchayeni M
 
-<!--
-**Thatchayeni1604/thatchayeni1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Aspiring Machine Learning & AI Engineer | IoT Enthusiast | Embedded Systems Developer
+🎓 B.E. Electronics & Instrumentation Engineering (2021–2025)
+📍 Tamil Nadu, India
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about Machine Learning, Deep Learning, IoT, and AI-driven automation systems.
+I build intelligent applications by combining:
+
+📊 Data Analytics
+
+🤖 Machine Learning (Scikit-learn)
+
+🧠 Deep Learning (CNN, ANN)
+
+🔌 IoT Sensor Systems
+
+☁️ AWS IoT & Cloud Integration
+
+My goal is to become an AI Engineer capable of building end-to-end ML solutions — from data collection to deployment.
+
+🧠 Skills
+
+Languages: Python, C, C++, MATLAB
+ML Frameworks: Scikit-learn, TensorFlow, PyTorch (learning)
+Tools: NumPy, Pandas, Seaborn, Jupyter
+IoT: MQTT, LoRa, BLE, Blynk, AWS IoT Core
+Platforms: Arduino, STM32, Raspberry Pi
+Other: Git, REST APIs, MATLAB/Simulink
+
+📂 Featured Projects
+🥭 Fruit Spoilage Detection (CNN Model)
+
+Deep learning-based classifier to predict fruit freshness with 92% accuracy.
+Tech: TensorFlow, CNN, Flask
+🔗 Repo coming soon
+
+🌬️ Wind Turbine Power Prediction (ANN Regression)
+
+Predicts wind power output using ANN + data analytics.
+Tech: Scikit-learn, Pandas
+
+📡 IoT Sensor Anomaly Detector
+
+ML model trained on IoT sensor data using Isolation Forest.
+Tech: Python, Scikit-learn, AWS IoT
+
+🧪 Milk Adulteration Classification
+
+SVM-based model using sensor readings from optical PCF setup.
+Tech: SVM, Pandas
+
+📫 Contact
+
+📧 Email: thatchu2004@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/thatchayeni-muruga-dhinakaran
+🐙 GitHub: github.com/thatchayeni1604
